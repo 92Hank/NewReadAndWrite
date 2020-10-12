@@ -16,7 +16,7 @@ namespace NewReadAndWrite
             Console.WriteLine("\t You entered: ");
             Console.WriteLine("\t " + name);
 
-            using (var writer = File.AppendText($"name.txt"))
+            using (var writer = File.AppendText($"disknames.txt"))
             {
                 writer.WriteLine(name);
             }
@@ -25,7 +25,7 @@ namespace NewReadAndWrite
 
         public void ReadToFile()
         {
-            using (var reader = File.OpenText($"name.txt"))
+            using (var reader = File.OpenText($"disknames.txt"))
             {
                 var line = reader.ReadLine();
                 while (line != null)
