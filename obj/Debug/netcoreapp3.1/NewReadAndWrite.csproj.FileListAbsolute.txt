@@ -1,0 +1,13 @@
+C:\Users\henri\VS Code\egnaÖvningar\NewReadAndWrite\bin\Debug\netcoreapp3.1\NewReadAndWrite.exe
+C:\Users\henri\VS Code\egnaÖvningar\NewReadAndWrite\bin\Debug\netcoreapp3.1\NewReadAndWrite.deps.json
+C:\Users\henri\VS Code\egnaÖvningar\NewReadAndWrite\bin\Debug\netcoreapp3.1\NewReadAndWrite.runtimeconfig.json
+C:\Users\henri\VS Code\egnaÖvningar\NewReadAndWrite\bin\Debug\netcoreapp3.1\NewReadAndWrite.runtimeconfig.dev.json
+C:\Users\henri\VS Code\egnaÖvningar\NewReadAndWrite\bin\Debug\netcoreapp3.1\NewReadAndWrite.dll
+C:\Users\henri\VS Code\egnaÖvningar\NewReadAndWrite\bin\Debug\netcoreapp3.1\NewReadAndWrite.pdb
+C:\Users\henri\VS Code\egnaÖvningar\NewReadAndWrite\obj\Debug\netcoreapp3.1\NewReadAndWrite.csprojAssemblyReference.cache
+C:\Users\henri\VS Code\egnaÖvningar\NewReadAndWrite\obj\Debug\netcoreapp3.1\NewReadAndWrite.AssemblyInfoInputs.cache
+C:\Users\henri\VS Code\egnaÖvningar\NewReadAndWrite\obj\Debug\netcoreapp3.1\NewReadAndWrite.AssemblyInfo.cs
+C:\Users\henri\VS Code\egnaÖvningar\NewReadAndWrite\obj\Debug\netcoreapp3.1\NewReadAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\henri\VS Code\egnaÖvningar\NewReadAndWrite\obj\Debug\netcoreapp3.1\NewReadAndWrite.dll
+C:\Users\henri\VS Code\egnaÖvningar\NewReadAndWrite\obj\Debug\netcoreapp3.1\NewReadAndWrite.pdb
+C:\Users\henri\VS Code\egnaÖvningar\NewReadAndWrite\obj\Debug\netcoreapp3.1\NewReadAndWrite.genruntimeconfig.cache
