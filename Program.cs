@@ -19,10 +19,11 @@ namespace NewReadAndWrite
                 Console.WriteLine("\t _____________________");
                 Console.WriteLine("\t |----TheNameList----|");
                 Console.WriteLine("\t |[1]. Enter name    |");
-                Console.WriteLine("\t |[2]. List all names|");
+                Console.WriteLine("\t |[2]. List names    |");
+                Console.WriteLine("\t |[3]. Clear names   |");
                 Console.WriteLine("\t |[Q]. for Quit      |");
                 Console.WriteLine("\t |---Select option---|");
-                Console.WriteLine("\t |-------1 - 2-------|");
+                Console.WriteLine("\t |-------1 - 3-------|");
                 Console.WriteLine("\t |___________________|");
 
                 isRunning = Console.ReadLine();
@@ -36,6 +37,9 @@ namespace NewReadAndWrite
                         break;
                     case "2":
                         input.ListNames();
+                        break;
+                    case "3":
+                        input.ClearNames();
                         break;
                     case "Q":
                         Console.WriteLine("\t The program ends here...");

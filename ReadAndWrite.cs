@@ -41,14 +41,22 @@ namespace NewReadAndWrite
 
         public void ListNames()
         {
-            Console.WriteLine("\t All names from namn2.txt:");
+            Console.WriteLine("\t All names from disknames.txt:");
             Console.WriteLine();
 
             foreach (var allNames in names)
             {
                 Console.WriteLine("\t " + allNames);
             }
-            Console.WriteLine("Press enter to continue");
+            Console.WriteLine("\t Press enter to continue");
+            Console.ReadLine();
+        }
+
+        public void ClearNames()
+        {
+            names.Clear();
+            Console.WriteLine("\t All names are cleared from the list");
+            Console.WriteLine("\t To read all names from disknames.txt, add a new one");
             Console.ReadLine();
         }
     }
